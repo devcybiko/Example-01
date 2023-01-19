@@ -1,2 +1,19 @@
 
 Already up to date.
+[main 669e810] automatic push
+ 1 file changed, 2 insertions(+)
+ create mode 100644 git-pushall.jnk
+To github.com:devcybiko/Example-01.git
+   3c19d1c..669e810  main -> main
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   git-pushall.jnk
+
+no changes added to commit (use "git add" and/or "git commit -a")
+...checking Example-01
+...syncing with github
+Already up to date.
